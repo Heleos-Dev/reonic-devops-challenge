@@ -3,3 +3,8 @@ cdk.out/
 dist/
 node_modules/
 package-lock.json
+.terraform
+.terraform.lock.hcl
+tf.plan
+reonic.tfvars
+.env
